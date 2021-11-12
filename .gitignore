@@ -1,0 +1,5 @@
+.env
+.vscode
+compiled_code.json
+testcode.py
+__pycache__
